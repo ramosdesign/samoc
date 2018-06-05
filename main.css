@@ -3735,7 +3735,7 @@ dl>dt:not(:first-of-type){
 
 }
 #block-404-icon{
-	background-image: url("../img/404_mask.png");
+	background-image: url("http://samocrj.com.br/wp-content/themes/clinico/img/404_mask.png");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size:cover;
@@ -4585,7 +4585,7 @@ body > .wpml-ls-statics-footer {
 		width: 30px;
 		height: 30px;
 		padding: 0;
-		background-image: url(../img/find.png) !important;
+		background-image: url("http://samocrj.com.br/wp-content/themes/clinico/img/find.png") !important;
 		background-size: cover !important;
 		background-repeat: no-repeat;
 		background-position: center center;
@@ -4984,26 +4984,26 @@ only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) { 
   
 	#block-404-icon{
-		background-image:url(../img/404_mask@2x.png);	
+		background-image:url(http://samocrj.com.br/wp-content/themes/clinico/img/404_mask@2x.png);	
 	}
 	.toggle_sidebar .switcher_shadow{
 		background-image:url(../img/header@2x.png);	
 	}
 	#lang_sel>ul>li>a:after,
 	#lang_sel_click>ul>li>a:after{
-		background-image: url(../img/select@2x.png) !important;	
+		background-image: url(http://samocrj.com.br/wp-content/themes/clinico/img/select@2x.png) !important;	
 		background-size: 31px 4px;	
 	}
 	@media only screen and(max-width:767px){
 		.toggle_sidebar .switcher{
-			background-image: url(../img/find@2x.png) !important;
+			background-image: url(http://samocrj.com.br/wp-content/themes/clinico/img/find@2x.png) !important;
 		}
 	}
 
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2){
 	select{
-		background-image: url(../img/select@2x.png) !important;	
+		background-image: url(http://samocrj.com.br/wp-content/themes/clinico/img/select@2x.png) !important;	
 		background-size: 31px 4px;	
 	}	
 }
